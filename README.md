@@ -1,0 +1,1 @@
+# geomagnetic_location_classification
